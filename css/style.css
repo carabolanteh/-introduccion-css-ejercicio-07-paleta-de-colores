@@ -1,0 +1,54 @@
+*{
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    font-size: x-large;
+}
+h2{
+    font-size: large;
+}
+.cool1{
+background-color: #f90404;
+}
+.cool2{
+    background-color: #f99e04;
+}
+.cool3{
+    background-color: #efe310;
+}
+.cool4{
+    background-color: #5fd3cc;
+}
+.cool5{
+    background-color: #287873;
+}
+.warm1{
+    background-color: rgb(87, 3, 55);
+}
+.warm2{
+    background-color: rgb(97, 4, 38);
+}
+.warm3{
+    background-color: rgb(205, 29, 11);
+}
+.warm4{
+    background-color: rgb(222, 97, 18);
+}
+.warm5{
+    background-color: rgb(243, 182, 8);
+}
+.Neo1{
+    background-color: hsl(275, 67%, 31%);
+}
+.Neo2{
+    background-color: hsl(293, 81%, 51%);
+}
+.Neo3{
+    background-color: hsl(190, 77%, 51%);
+}
+.Neo4{
+    background-color: hsl(190, 96%, 24%);
+}
+.Neo5{
+    background-color: hsl(220, 93%, 18%);
+}
